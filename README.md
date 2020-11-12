@@ -1,4 +1,5 @@
 # beat-pose-game
+Live demo:https://beat-pose.netlify.com/
 # How to use
 * Visit the live demo
 * Allow access to the webcam
